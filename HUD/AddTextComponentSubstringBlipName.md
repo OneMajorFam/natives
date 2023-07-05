@@ -1,7 +1,8 @@
 ---
 ns: HUD
 aliases: ["0x80EAD8E2E1D5D52E"]
----
+---esc
+Tab
 ## ADD_TEXT_COMPONENT_SUBSTRING_BLIP_NAME
 
 ```c
